@@ -1,4 +1,4 @@
-# n8n-Automated Knowledge Base RAG Bot
+# n8n-Automated Knowledge Base and RAG Bot
 
 
 ## Overview
